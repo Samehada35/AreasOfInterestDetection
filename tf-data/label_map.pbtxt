@@ -1,0 +1,17 @@
+item {
+    id: 1
+    name: 'image'
+    display_name: 'Image'
+ }
+
+item {
+    id: 2
+    name: 'table'
+    display_name: 'Table'
+ }
+
+item {
+    id: 3
+    name: 'text'
+    display_name: 'Text'
+ }

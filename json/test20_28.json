@@ -1,0 +1,1 @@
+[{"name": "image", "bndbox": {"xmin": 76, "xmax": 592, "ymin": 60, "ymax": 404}}, {"name": "text", "bndbox": {"xmin": 42, "xmax": 612, "ymin": 23, "ymax": 63}}, {"name": "table", "bndbox": {"xmin": 76, "xmax": 593, "ymin": 60, "ymax": 405}}]
